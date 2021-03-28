@@ -1,16 +1,4 @@
-# fluttertodolistsqfliteapp
 
-A new Flutter todolist sqflite application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Simple Sorter is a task list which I created using dart, it allows the user to capture and organize tasks the moment they pop into their head, it also give the users the ability to categorize tasks.
+- I managed a Sqflite database to store and display the for the tasks the user put in.
+- Implemented the frontend using a number of flutter widgets.
